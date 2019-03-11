@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:font-family="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .outline {
+            border: 1px;
+            padding: 0 0px;
+            border: transparent;
+            background-color: #e6fdff;
+        }
+        img {width:  100%; height: 48%}
+        body {letter-spacing: 3px; border-image-width: 1000px
+        }
+
+    </style>
+  </head>
+<body>
+
+  <table align="center" tr  style="padding-top: 20px; padding-bottom: 20px; background-color: white; font-size: xx-large;">
+    <th><span style="color: #00ced1;margin-left: 125px; font-family: arial;"> </th>
+    <th><span style="color: #00ced1;margin-left: 90px; font-family: arial;">HOME</th>
+    <th><span style="color: #00ced1;margin-left: 50px; font-family: arial;">PHOTOAPP</th>
+    <th><span style="color: #00ced1;margin-left: 50px; font-family: arial;">DESIGN</th>
+    <th><span style="color: #00ced1;margin-left: 50px; margin-right: 100px; font-family: arial;">DOWNLOAD</th>
+    <th><span style="color: #00ced1;margin-left: 118px; font-family: arial;"> </th>
+  </table>
+
+<div class="outline">
+<img src="https://ipiccy.com/res/template/img/hp_v2/pics/ba-01s3.jpg"; alt="nature">
+                                                                                                                                                                                                                                                         <strong>
+     <span style="font-family: 'Arial'">
+         <h1 style="text-align:center">RAPPRESENT YOUR LIFE WITH A SIMPLE PHOTO</h1>
+         <p style="text-align:center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.<br />
+         <p style="text-align:center"> Ea adolescens rationibus quaerendum eum, dicam sanctus percipit ut mea, erat omnis dolorem est et. Essent maiorum no usu. An timeam integre electram nam. Praesent conceptam vis ea. In sint quaerendum has, nominati necessitatibus vim no. Dicat omnes an his, ex vidit mentitum eum. Mundi equidem pertinacia nec cu, mel te liber homero veritus.Mei facer viderer te, sit adipisci ullamcorper ex. Dicit deterruisset id mea. Everti oblique aliquam ad qui, id sea movet lobortis. Pri quot labore euismod eu, sea quod corrumpit ut.Ea adolescens rationibus quaerendum eum, dicam sanctus percipit ut mea, erat omnis dolorem est et. Essent maiorum no usu. An timeam integre electram nam. Praesent conceptam vis ea. In sint quaerendum has, nominati necessitatibus vim no. Dicat omnes an his, ex vidit mentitum eum. Mundi equidem pertinacia nec cu, mel te liber homero veritus.Mei facer viderer te, sit adipisci ullamcorper ex. Dicit deterruisset id mea. Everti oblique aliquam ad qui, id sea movet lobortis. Pri quot labore euismod eu, sea quod corrumpit ut.</p><br />
+  <div style="text-align: center">
+
+      <button type="submit" style="color:white; background: darkcyan; padding-bottom: 10px; padding-top: 15px; padding-left: 20px; padding-right: 20px  ">GET STARTED</button></div>
+    <br />
+    <br />
+    <br />
+    <br />
+  </div>
+
+<footer style="background-color: white; padding-top: 50px; padding-bottom: 50px";</footer>
+  <div style="text-align: right; padding-right: 0%">Copyright by phototime - all rights reserved</div>
+
+</html>
